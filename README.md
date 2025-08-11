@@ -1,16 +1,17 @@
-# todoey
+# Todoey – Responsive To-Do List App (Flutter + Hive)
 
-A new Flutter project.
+Todoey is a responsive and cleanly designed task management app built with Flutter.  
+It allows users to add, edit, and delete tasks, with all data stored locally using Hive.  
+The app works offline and adapts seamlessly to different screen sizes.
 
-## Getting Started
+## Features
+- 📌 Add, edit, and delete tasks
+- 💾 Local data storage with Hive
+- 📱 Fully responsive UI
+- 🚀 Offline support
+- 🧩 Clean architecture
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Flutter** for cross-platform development
+- **Hive** for local database
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
